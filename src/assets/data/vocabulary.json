@@ -2,7 +2,7 @@
   "FORMS": {
     "VALIDATION": {
       "REQUIRED": "This field is required",
-      "INVALID": "This fiield is not valid"
+      "INVALID": "This field is not valid"
     },
     "PLACEHOLDERS": {
       "EMAIL": "You email",
